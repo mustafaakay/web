@@ -1,0 +1,641 @@
+ .u-section-1 {
+  background-repeat: no-repeat, no-repeat;
+  background-image: linear-gradient(to bottom, rgba(41, 46, 51, 0.3), rgba(41, 46, 51, 0.3)), url('images/Microsoft_Office_Excel_2019present.svg.png');
+  background-size: cover, cover;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 665px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 437px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  height: auto;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0 10px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  margin: 87px auto 0 139px;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  margin: -42px auto 0 399px;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  margin: -42px 343px 0 auto;
+}
+
+.u-section-1 .u-btn-4 {
+  background-image: none;
+  margin: -42px 83px 0 auto;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%, 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 548px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 199px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-right: 143px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 420px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 315px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 198px;
+  }
+} .u-section-2 {
+  min-height: 628px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 628px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 30px 30px 98px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3rem;
+  margin: 68px 114px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 18px auto 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  margin: 30px auto 0 0;
+}
+
+.u-section-2 .u-btn-2 {
+  background-image: none;
+  margin: -42px 61px 0 auto;
+}
+
+.u-section-2 .u-btn-3 {
+  background-image: none;
+  margin: 55px auto 0 0;
+}
+
+.u-section-2 .u-btn-4 {
+  background-image: none;
+  margin: -42px 61px 0 auto;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 628px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: url("images/Microsoft_Office_Excel_2019present.svg.png");
+  background-size: cover;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-2 {
+    min-height: 518px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: -37px;
+    margin-bottom: -37px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 518px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 50px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 14px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 518px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-2 {
+    min-height: 406px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: -79px;
+    margin-bottom: -79px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 49px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 2.25rem;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 397px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-2 {
+    min-height: 812px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 0;
+    margin-bottom: -116px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 480px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    min-height: 683px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-bottom: 0;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 49px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 302px;
+  }
+} .u-section-3 {
+  background-repeat: no-repeat, no-repeat;
+  background-image: linear-gradient(to bottom, rgba(41, 46, 51, 0.3), rgba(41, 46, 51, 0.3)), url('images/Microsoft_Office_Excel_2019present.svg.png');
+  background-size: cover, cover;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 665px;
+}
+
+.u-section-3 .u-group-1 {
+  min-height: 437px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  height: auto;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 0 10px;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  margin: 87px auto 0 139px;
+}
+
+.u-section-3 .u-btn-2 {
+  background-image: none;
+  margin: -42px auto 0 399px;
+}
+
+.u-section-3 .u-btn-3 {
+  background-image: none;
+  margin: -42px 343px 0 auto;
+}
+
+.u-section-3 .u-btn-4 {
+  background-image: none;
+  margin: -42px 83px 0 auto;
+}
+
+@media (max-width: 1199px) {
+   .u-section-3 {
+    background-position: 50% 50%, 50% 50%;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 548px;
+  }
+
+  .u-section-3 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-btn-2 {
+    margin-left: 199px;
+  }
+
+  .u-section-3 .u-btn-3 {
+    margin-right: 143px;
+  }
+
+  .u-section-3 .u-btn-4 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 420px;
+  }
+
+  .u-section-3 .u-btn-2 {
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-btn-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 315px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 198px;
+  }
+} .u-section-4 {
+  min-height: 628px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 628px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: url("images/Microsoft_Office_Excel_2019present.svg.png");
+  background-size: cover;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 628px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px 99px 30px 30px;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 3rem;
+  margin: 112px 0 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 18px auto 0 0;
+}
+
+.u-section-4 .u-btn-1 {
+  background-image: none;
+  margin: 52px auto 0 56px;
+}
+
+.u-section-4 .u-btn-2 {
+  background-image: none;
+  margin: -42px 99px 0 auto;
+}
+
+.u-section-4 .u-btn-3 {
+  background-image: none;
+  margin: 39px auto 0 56px;
+}
+
+.u-section-4 .u-btn-4 {
+  background-image: none;
+  margin: -42px 99px 0 auto;
+}
+
+@media (max-width: 1199px) {
+   .u-section-4 {
+    min-height: 546px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: -23px;
+    margin-bottom: -23px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 518px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 518px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 50px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-4 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-btn-3 {
+    margin-left: 0;
+  }
+
+  .u-section-4 .u-btn-4 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-4 {
+    min-height: 426px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 427px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-right: 30px;
+    padding-left: 49px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-4 {
+    min-height: 961px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 641px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-4 {
+    min-height: 504px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 404px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-right: 50px;
+    padding-left: 49px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 1.875rem;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 714px;
+  margin: 0 calc(((100% - 1140px) / 2));
+}
+
+.u-section-5 .u-group-1 {
+  min-height: 574px;
+  width: 746px;
+  height: auto;
+  margin: 70px auto 60px;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 18px 59px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 0 1px;
+}
+
+.u-section-5 .u-form-1 {
+  height: 419px;
+  width: 624px;
+  margin: 20px auto 0;
+}
+
+.u-section-5 .u-btn-1 {
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    margin-left: calc(((100% - 940px) / 2));
+    margin-right: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-5 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    margin-left: calc(((100% - 720px) / 2));
+    margin-right: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-5 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    margin-left: calc(((100% - 540px) / 2));
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-5 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-5 .u-form-1 {
+    width: 520px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    margin-left: calc(((100% - 340px) / 2));
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-5 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-5 .u-form-1 {
+    width: 320px;
+  }
+}
+
+
+
+
+
+
+
+
+.zoom {
+  transition: transform 0.2s ease-in-out; /* Smooth transition */
+}
+
+.zoom:hover {
+  transform: scale(1.5); /* Zoom in effect */
+}
